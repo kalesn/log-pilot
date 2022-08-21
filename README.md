@@ -4,7 +4,7 @@ log-pilot
 
 Containerd branch is mainly used to collect containerd logs
 =========
-`log-pilot-containerd` is an awesome  containerd  log tool. With `log-pilot` you can collect logs from docker hosts and send them to your centralized log system such as elasticsearch, graylog2, awsog and etc. `log-pilot` can collect not only containerd stdout but also log file that inside containerd containers.
+`log-pilot-containerd` is an awesome  containerd  log tool. With `log-pilot` you can collect logs from containerd  hosts and send them to your centralized log system such as elasticsearch, graylog2, awsog and etc. `log-pilot` can collect not only containerd stdout but also log file that inside containerd containers.
 
 Try it
 ======
